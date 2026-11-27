@@ -128,5 +128,4 @@ class VesselSegmentationDdataModule(pl.LightningDataModule):
             drop_last          = False
         )
       
-
 # [END]
